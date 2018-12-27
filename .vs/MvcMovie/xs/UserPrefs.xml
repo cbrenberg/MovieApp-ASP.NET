@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0295D458-45BC-498A-95DF-49B407F577F2}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Controllers/HelloWorldController.cs">
+    <Files>
+      <File FileName="MvcMovie/Models/Movie.cs" Line="17" Column="1" />
+      <File FileName="MvcMovie/Startup.cs" Line="69" Column="21" />
+      <File FileName="MvcMovie/Program.cs" Line="1" Column="1" />
+      <File FileName="MvcMovie/Models/MvcMovieContext.cs" Line="19" Column="1" />
+      <File FileName="MvcMovie/appsettings.json" Line="10" Column="22" />
+      <File FileName="MvcMovie/MvcMovie.csproj" Line="17" Column="49" />
+      <File FileName="MvcMovie/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="MvcMovie/Controllers/HelloWorldController.cs" Line="1" Column="1" />
+      <File FileName="MvcMovie/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
